@@ -16,10 +16,5 @@
   "bugs": {
     "url": "https://github.com/javierruizjr15/Employee-Tracker/issues"
   },
-  "homepage": "https://github.com/javierruizjr15/Employee-Tracker#readme",
-  "dependencies": {
-    "fs": "0.0.1-security",
-    "inquirer": "^8.0.0",
-    "mysql2": "^2.2.5"
-  }
+  "homepage": "https://github.com/javierruizjr15/Employee-Tracker#readme"
 }
