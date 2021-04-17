@@ -16,5 +16,11 @@
     "url": "https://github.com/javierruizjr15/Employee-Tracker/issues"
   },
   "homepage": "https://github.com/javierruizjr15/Employee-Tracker#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "i": "^0.3.6",
+    "inquirer": "^8.0.0",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  }
 }
