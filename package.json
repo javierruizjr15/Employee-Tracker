@@ -1,26 +1,26 @@
 {
-  "name": "Employee-Tracker",
+  "name": "employeeTracker",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/javierruizjr15/Employee-Tracker.git"
+    "url": "git+https://github.com/josephmnielsen/employeeTracker.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/javierruizjr15/Employee-Tracker/issues"
+    "url": "https://github.com/josephmnielsen/employeeTracker/issues"
   },
-  "homepage": "https://github.com/javierruizjr15/Employee-Tracker#readme",
-  "description": "",
+  "homepage": "https://github.com/josephmnielsen/employeeTracker#readme",
   "dependencies": {
-    "i": "^0.3.6",
+    "console.table": "^0.10.0",
     "inquirer": "^8.0.0",
     "mysql2": "^2.2.5",
-    "sequelize": "^6.6.2"
+    "seed-js": "0.0.11"
   }
 }
